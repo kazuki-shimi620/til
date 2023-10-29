@@ -1,16 +1,21 @@
-# Windows 環境構築
+# Windows環境構築
+
 ## ターミナル代替
+
 - winget
   - デフォルトで入っているパッケージ管理ツール
   - microsof純正なので安心
   - 取扱が少ない
-  - https://qiita.com/katsuhidem/items/ad7966fd1fdb6bc8befd
+  - [wingetのリンク](https://qiita.com/katsuhidem/items/ad7966fd1fdb6bc8befd)
 - scoop
   - wingetに比べて取扱範囲が広い
   - docker desktopが使えない
-  - 基本的にwindgetを優先する
+
+> 基本的にwindgetを優先する
+
 
 ## install　ツール
+
 - DB管理ツール
   - Table plus
   - HeidiSQL
