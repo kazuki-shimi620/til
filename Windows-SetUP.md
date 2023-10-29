@@ -13,8 +13,7 @@
 
 > 基本的にwindgetを優先する
 
-
-## install　ツール
+## install ツール
 
 - DB管理ツール
   - Table plus
