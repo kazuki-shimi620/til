@@ -33,7 +33,9 @@
 - その他
   - Postman
   - Github DeskTop
-  - Docker
+  - Plat-UML -> 別ツールでも可
+  - Docker-cli
+  - Docker-desktop
   - Souce tree
   - Cyber Duck
 - 趣味
